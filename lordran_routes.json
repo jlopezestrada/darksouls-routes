@@ -1,0 +1,68 @@
+{
+    "Firelink Shrine": {
+        "Undead Burg": 5,
+        "New Londo Ruins": 3,
+        "Catacombs": 7
+    },
+    "Undead Burg": {
+        "Firelink Shrine": 10,
+        "Undead Parish": 6,
+        "Lower Undead Burg": 4
+    },
+    "Undead Parish": {
+        "Undead Burg": 10,
+        "Darkroot Garden": 6,
+        "Sen's Fortress": 8
+    },
+    "Lower Undead Burg": {
+        "Undead Burg": 10,
+        "The Depths": 5
+    },
+    "The Depths": {
+        "Lower Undead Burg": 10,
+        "Blighttown": 7
+    },
+    "Blighttown": {
+        "The Depths": 10,
+        "Quelaag's Domain": 3,
+        "Valley of Drakes": 4
+    },
+    "Quelaag's Domain": {
+        "Blighttown": 10,
+        "Demon Ruins": 6
+    },
+    "New Londo Ruins": {
+        "Firelink Shrine": 10,
+        "Valley of Drakes": 3
+    },
+    "Darkroot Garden": {
+        "Undead Parish": 10,
+        "Darkroot Basin": 4
+    },
+    "Darkroot Basin": {
+        "Darkroot Garden": 10,
+        "Valley of Drakes": 4
+    },
+    "Valley of Drakes": {
+        "Blighttown": 10,
+        "New Londo Ruins": 10,
+        "Darkroot Basin": 10
+    },
+    "Sen's Fortress": {
+        "Undead Parish": 10,
+        "Anor Londo": 8
+    },
+    "Anor Londo": {
+        "Sen's Fortress": 10
+    },
+    "Catacombs": {
+        "Firelink Shrine": 10,
+        "Tomb of the Giants": 7
+    },
+    "Tomb of the Giants": {
+        "Catacombs": 10
+    },
+    "Demon Ruins": {
+        "Quelaag's Domain": 10
+    }
+}
